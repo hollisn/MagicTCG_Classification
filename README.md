@@ -24,7 +24,7 @@ Magic is broken up into 5 colors, each with different attributes.
 
 <img src="data/images/tumblr_nq0v2xq3oP1s9rpajo1_500.gif" width=500/>
 
-Color theory about what color does what gets really advanced
+Color theory (about which colors get which abilities) gets really advanced
 
 http://mtgsalvation.gamepedia.com/Color_Pie
 

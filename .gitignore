@@ -57,3 +57,4 @@ docs/_build/
 target/
 data/AllSetsArray.json
 zz-sklearn_annotation.ipynb
+.ipynb_checkpoints/
